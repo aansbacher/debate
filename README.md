@@ -1,7 +1,13 @@
 # Debate
 
 ### What are you trying to do? 
+
+<p dir=rtl>
+
 זירת וויכוחים דיגיטלית/וירטואלית מכובדת עם ניקוד שיאתגר את המשתתפים לשמור על כללי שיח מכבד
+
+ 
+</p>
 
 ### Articulate your objectives using absolutely no jargon.
 לאתגר אנשים להתווכח נכון יותר
