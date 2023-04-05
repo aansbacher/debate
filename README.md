@@ -35,6 +35,6 @@
 
 
 ### How much will it cost? לא יודע
-### How long will it take? 
+### How long will it take? עד ביאת משיח צדקנו 
 ### What are the mid-term and final “exams” to check for success?
 
