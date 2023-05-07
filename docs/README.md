@@ -1,17 +1,29 @@
 # Debate
 
+
 # interview
 
-### What are you trying to do? 
 
-<p dir=rtl>
+<pre dir=rtl>
 
-זירת וויכוחים דיגיטלית/וירטואלית מכובדת עם ניקוד שיאתגר את המשתתפים לשמור על כללי שיח מכבד
+0
+ערב טוב ואיתנו היום בעין  
+עשר שאלות עם אריה השועל  
+ע: ערב טוב אריה
+א: אתה יכול לקרוא לי גם
+   מר שועל
+<!-- ### What are you trying to do?  -->
 
- 
-</p>
+1
+ספר לנו מה אתה מנסה לעשות
 
-### Articulate your objectives using absolutely no jargon.
+זירת וויכוחים וירטואלית
+שתאתגר את המשתתפים
+ותזכה בנקודות בהתאם
+לשמירה על שיח מכבד
+</pre>
+
+<!-- ### Articulate your objectives using absolutely no jargon. -->
 לאתגר אנשים להתווכח נכון יותר
 
 
